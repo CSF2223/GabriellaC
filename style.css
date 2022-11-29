@@ -42,7 +42,7 @@ body {
 }
 
 .heroText {
-    font-size: 0.5rem;
+    font-size: 0.6rem;
     padding-bottom: 0.5rem;
     text-align: center;
     letter-spacing: 3px;
@@ -55,7 +55,7 @@ body {
 }
 
 .heroTextTop {
-    padding: 0.2rem;
+    padding: 1rem;
 }
 
 .heroTextBottom {
@@ -63,7 +63,7 @@ body {
 }
 
 .heroButton {
-    padding: 2rem;
+    padding: 0.2rem;
 }
 
 .button {

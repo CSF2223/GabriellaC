@@ -37,8 +37,8 @@ body {
 .heroImage img {
     border-radius: 6rem;
     box-shadow: 5px 5px #000;
-    width: 100%;
-    height: auto;
+    width: 58%;
+    height: auto
 }
 
 .heroText {
@@ -197,4 +197,12 @@ footer {
     .projectCard {
         max-width: 20%;
     }
+    
+  .aboutMeHeader {
+    margin: 1.5rem 3rem;
+    text-align: center;
+    padding: 0.5rem;
+    letter-spacing: 4px;
+  } 
+
 }

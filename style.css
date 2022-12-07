@@ -54,10 +54,6 @@ body {
     text-transform: uppercase;
 }
 
-.heroTextTop {
-    padding: 1rem;
-}
-
 .heroTextBottom {
     padding: 0.2rem;
 }
@@ -199,10 +195,25 @@ footer {
     }
     
   .aboutMeHeader {
-    margin: 1.5rem 3rem;
+    margin: 1.5rem 6rem;
     text-align: center;
     padding: 0.5rem;
     letter-spacing: 4px;
-  } 
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #A4BE7B;
+    font-size: 54px;
+  }
+  
+  .aboutMeBio {
+      margin-left: 100px;
+      margin-right: 100px;
+      margin-bottom: 100px;
+      margin-top: 20px;
+      text-align: center;
+      padding: 0.5rem;
+    letter-spacing: 2px;
+    font-size: 16px;
+  }
 
 }
